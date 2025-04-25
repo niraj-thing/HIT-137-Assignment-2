@@ -1,0 +1,3 @@
+Largest temperature range: 6.70°C
+Station(s):
+- s002

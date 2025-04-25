@@ -1,0 +1,7 @@
+Warmest average temperature: 30.70°C
+Warmest station(s):
+- s001
+
+Coolest average temperature: 22.20°C
+Coolest station(s):
+- s004
